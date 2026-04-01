@@ -1,0 +1,11 @@
+numpy
+pandas
+plotly
+streamlit
+xgboost
+shap
+
+# Optional for LLM + RAG
+openai
+pypdf
+faiss-cpu
